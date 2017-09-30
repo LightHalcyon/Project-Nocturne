@@ -14,7 +14,7 @@ farrahhunafa        -> branch tempat upload untuk Farrah Hunafa
 
 dimastajuniar       -> branch tempat upload untuk Dimasta Juniar
 
-mhawarihilma        -> branch tempat upload untuk M Hawari Hilman
+mhawarihilman       -> branch tempat upload untuk M Hawari Hilman
 
 naficahyafauzan     -> branch tempat upload untuk Nafi Cahya Fauzan
 

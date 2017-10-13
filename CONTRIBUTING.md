@@ -1,21 +1,16 @@
-Introduction
+How to contribute
 ---------------------------------------
 
-Repo ini terdiri dari branch master dan beberapa branch lain yang dikhususkan untuk menjadi tempat commit untuk para contributor sebelum dilakukan merge kedalam branch master.
+Alright, I'm gonna go straight to the point here
 
-List Branch
----------------------------------------
+We're gonna use single master branch, so if you want to edit assets or blueprints, say so at LINE/Discord group before doing so
 
-master              -> self explanatory
+If you want add some asset and/or feature, make sure it is on it's own and not dependant on any other assets that's being worked on. 
+If you have to refer to said asset, contact others or me to make sure there's no conflict.
+Otherwise, always pull first before pushing.
 
-adityawarmanfanaro  -> branch tempat upload untuk Adityawarman Fanaro
+Any kind of question can be asked on group chat or directly to me
 
-farrahhunafa        -> branch tempat upload untuk Farrah Hunafa
+Regards
 
-dimastajuniar       -> branch tempat upload untuk Dimasta Juniar
-
-mhawarihilman       -> branch tempat upload untuk M Hawari Hilman
-
-naficahyafauzan     -> branch tempat upload untuk Nafi Cahya Fauzan
-
-samuelyang          -> branch tempat upload untuk Samuel yang
+Adityawarman Fanaro

@@ -7,10 +7,65 @@ We're gonna use single master branch, so if you want to edit assets or blueprint
 
 If you want add some asset and/or feature, make sure it is on it's own and not dependant on any other assets that's being worked on. 
 If you have to refer to said asset, contact others or me to make sure there's no conflict.
-Otherwise, always pull first before pushing.
+Otherwise, put the asset on their respective folder in Nocturne. Remember, always pull first before pushing.
 
 Any kind of question can be asked on group chat or directly to me
 
 Regards
 
 Adityawarman Fanaro
+
+To-Do
+------------------------------------------
+Primary function/components:
+
+    - Basic movement (done)
+
+    - Ladder blueprint
+
+        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
+
+    - Hide system blueprint
+
+        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
+
+    - Trap blueprint
+
+        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
+
+    - Damage system
+
+        - Add handler in MainCharacter blueprint and damage source (trap)
+
+    - Ethern blueprint
+
+        - Add insta kill MainCharacter handler on overlap/hit
+
+
+Complementary function/components:
+
+    - Level
+
+        - Place in Content/Nocturne/Level
+
+    - Background music
+
+        - Place in Content/Nocturne/Audio/BGM
+
+    - Background
+
+        - Place in Content/Nocturne/Texture
+
+    - Sprite
+
+        - Main Character
+
+            - Place in Content/Nocturne/Sprite/MCSpriteSheet
+
+        - Ladder
+
+            - Place in Content/Nocturne/Sprite/EnvSprite/LadderSpriteSheet
+
+        - Ethern
+
+            - Place in Content/Nocturne/Sprite/EnemySprite/EthernSpriteSheet

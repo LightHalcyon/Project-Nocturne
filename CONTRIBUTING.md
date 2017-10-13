@@ -17,6 +17,8 @@ Adityawarman Fanaro
 
 To-Do
 ------------------------------------------
+This list will be updated on each prototype iteration
+
 Primary function/components:
 
     - Basic movement (done)

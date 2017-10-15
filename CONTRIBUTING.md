@@ -42,13 +42,16 @@ Primary function/components:
     - Ethern blueprint
 
         - Add insta kill MainCharacter handler on overlap/hit
-
-
-Complementary function/components:
-
+        
     - Level
 
         - Place in Content/Nocturne/Level
+
+    -Mechanics: Simple puzzle mechanism & triggers
+    
+        - As simple as press button to open a door for now
+
+Complementary function/components:
 
     - Background music
 
@@ -71,3 +74,7 @@ Complementary function/components:
         - Ethern
 
             - Place in Content/Nocturne/Sprite/EnemySprite/EthernSpriteSheet
+            
+    - Trap blueprint
+
+        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts

@@ -30,22 +30,10 @@ Primary function/components:
 
         - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
 
-    - Hide system blueprint
+    - Trap (Slow) blueprint
 
         - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
 
-    - Trap blueprint
-
-        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
-
-    - Damage system
-
-        - Add handler in MainCharacter blueprint and damage source (trap)
-
-    - Ethern blueprint
-
-        - Add insta kill MainCharacter handler on overlap/hit
-        
     - Level
 
         - Place in Content/Nocturne/Level

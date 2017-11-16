@@ -24,23 +24,14 @@ This list will be updated on each prototype iteration
 
 Primary function/components:
 
-    - Basic movement (done)
-
-    - Ladder blueprint
-
-        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
-
-    - Trap (Slow) blueprint
-
-        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
-
     - Level
 
         - Place in Content/Nocturne/Level
+        - Created in terms of 3D World
 
-    -Mechanics: Simple puzzle mechanism & triggers
+    - AI
     
-        - As simple as press button to open a door for now
+        - Enchance the AI
 
 Complementary function/components:
 
@@ -66,6 +57,3 @@ Complementary function/components:
 
             - Place in Content/Nocturne/Sprite/EnemySprite/EthernSpriteSheet
             
-    - Trap blueprint
-
-        - Create blueprint only! Do not put in any level for the sake of avoiding conflicts
